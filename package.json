@@ -1,0 +1,24 @@
+{
+  "name": "vaultfile",
+  "version": "0.0.1",
+  "description": "A single file offline encrypted file store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ea2973929/vaultfile.git"
+  },
+  "keywords": [
+    "encryption",
+    "file",
+    "store"
+  ],
+  "author": "Erik Nilsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ea2973929/vaultfile/issues"
+  },
+  "homepage": "https://github.com/ea2973929/vaultfile#readme"
+}
